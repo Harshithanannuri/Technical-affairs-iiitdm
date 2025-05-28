@@ -50,7 +50,7 @@ const Hero = () => {
           <div className="flex flex-col items-center text-center">
             <div className="inline-flex items-center justify-center p-2 bg-blue-600 rounded-full mb-6 animate-bounce">
 
-              <img src="../../images/techlogo.png" width="50" height="50" className='image_logo' />
+              <img src="/../images/techlogo.png" width="50" height="50" className='image_logo' />
 
             </div>
 
